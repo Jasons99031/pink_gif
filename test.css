@@ -1899,7 +1899,7 @@
     bottom: 85px;
     right: 70px;
     z-index: -1;
-    width: 300px;
+    width: 150px;
     border-radius: var(--border-radius);
     background: var(--jumping-gif) bottom/40% no-repeat;
   }
